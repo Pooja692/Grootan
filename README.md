@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#">
-         <img alt="Qries" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semrush.com%2Fkb%2F669-format-upload&psig=AOvVaw0SUGuApE6G6iKnMb34ADBB&ust=1622009787742000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCI-L2X5PACFQAAAAAdAAAAABAK"
+         <img alt="Qries" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fcnergyus.com%2Fimages%2FWebbased1.gif&imgrefurl=http%3A%2F%2Fcnergyus.com%2Fwebbased.html&tbnid=Ol1sulle5GLq2M&vet=12ahUKEwj5zOb3luTwAhUVTXwKHcbQAyoQMygKegUIARCEAg..i&docid=kJsaUXnh4FgScM&w=2313&h=1368&q=web%20application%20gif&ved=2ahUKEwj5zOb3luTwAhUVTXwKHcbQAyoQMygKegUIARCEAg"
           width="100%" height="100%">
       </a>
 
